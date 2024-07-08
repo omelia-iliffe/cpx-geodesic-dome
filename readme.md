@@ -4,7 +4,7 @@
 
 ## Resouces
 * The circuit playground holder is a remix of [**Circuit Playground Express Snap Fit Mount with Alligator Clip Cutouts** by **paulblankenbaker** on thingiverse](https://www.thingiverse.com/thing:3982715)
-    * which itself is a remix of[Adafruits **Circuit Playground Express Snap Fit Mount**](https://www.thingiverse.com/thing:3878226)
+    * which itself is a remix of [Adafruits **Circuit Playground Express Snap Fit Mount**](https://www.thingiverse.com/thing:3878226)
 * The fantasic **Joinery: Joints for Laser Cut Assemblies** project for the joins between each triangle in the dome.
 * [**Domerama 2v geodesic dome calculater**](http://www.domerama.com/calculators/2v-geodesic-dome-calculator/)
 * Inkscape for drawing and modifying the triangles.
@@ -52,7 +52,7 @@ And then, a view of the inside and the outside of the full dome... tahdahhhh!!!
 * Cut 6 pieces of copper tape and adhere them to the outside of the top plate **pinning a strand of conductive thread underneath it**. These will be our capacitive buttons for interaction.
 
 ### Upload the code
-Find the .uf2 file in the files folder and upload this to the circuit playground. 
+Find the .uf2 file in the files folder and upload this to the circuit playground. There are six musical notes with a light effect associated with each of them, so you can play a tune and make a light show at the same time.
 
 ### Finally,
 Place the geodesic dome on top. Enjoy the lights and sounds as you touch the copper tape.
