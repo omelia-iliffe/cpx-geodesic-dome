@@ -1,5 +1,5 @@
 # INTERACTIVE CIRCUIT PLAYGROUND GEODESIC DOME
-**Two of our fabourite things; combined!**  
+**Two of our FABourite things; combined!**  
 **A Project by Wendy and Omelia**  
 
 ## Resouces
@@ -28,9 +28,17 @@ This creates a secure hold for the Playground and a place for the geodesic dome 
 ## Assembly
 ### Dome
 After cutting out 30xABB triangles and 10xAAA triangles, carefully fold each of the tabs, make sure each triangle is folded the same way. 
-Then assemble them together following this image as a guide
+Then assemble them together following these images as a guide
 ![](/images/2v_assembly_large.jpg)
-
+This is what the different shapes look like - ABBs, AAAs, and ABBs with holes in the centre.
+![](/images/dome_components.jpg)
+This is one 'group' of the ABB triangles look like joined together, with the long sides on the outside.
+![](/images/dome_single.jpg)
+Two 'groups' of ABB triangles joined together using the AAAs.
+![](/images/dome_elements.jpg)
+And then, a view of the inside and the outside of the full dome... tahdahhhh!!!
+![](/images/dome_inner.jpg)
+![](/images/dome_outer.jpg)
 ### Circuit Playground Base
 * Slot the 2 locating tubes into the circuit playground holder and slot that onto the base plate with the fabric.  
 * Cut 6 pieces of conductive thread and tie them around pins A1, A2, A3, A4, A5, and A6. 
