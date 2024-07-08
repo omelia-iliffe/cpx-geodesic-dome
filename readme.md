@@ -13,7 +13,7 @@
 ### Geodesic Dome
 To create the geodesic dome I created triangles in Inkscape. The triangles need to be the exact dimensions in order to create the dome. The Domarama website was helpful to do the inital calculations. We are using a **2V** dome design.  
 We used a brother ScanNCut to cut out the triangles. There are some solid ones and some with different pattern cutouts. Its fun to have a mixture.
-You need 30x ABB, and 10x AAA triangles
+You need 30x AAB, and 10x BBB triangles
 
 ### Circuit Playground Base
 The circuit playground base is created with two 3d printed parts, some mesh fabric (we used tulle), copper tape, and conductive thread.
@@ -29,11 +29,11 @@ This creates a secure hold for the Playground and a place for the geodesic dome 
 
 ## Assembly
 ### Dome
-After cutting out 30xABB triangles and 10xAAA triangles, carefully fold each of the tabs, make sure each triangle is folded the same way. 
+After cutting out 30xAAB triangles and 10xBBB triangles, carefully fold each of the tabs, make sure each triangle is folded the same way. 
 Then assemble them together following these images as a guide
 ![](/images/2v_assembly_large.jpg)
 
-This is what the different shapes look like - ABBs, AAAs, and ABBs with holes in the centre.
+This is what the different shapes look like - AABs, BBBs, and AABs with holes in the centre.
 ![](/images/dome_components.jpg)
 
 This is one 'group' of the ABB triangles look like joined together, with the long sides on the outside.
