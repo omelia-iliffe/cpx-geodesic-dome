@@ -52,7 +52,7 @@ And then, a view of the inside and the outside of the full dome... tahdahhhh!!!
 * Cut 6 pieces of copper tape and adhere them to the outside of the top plate **pinning a strand of conductive thread underneath it**. These will be our capacitive buttons for interaction.
 
 ### Upload the code
-Find the .uf2 file for the MakeCode that Wendy put together in the files folder and upload this to the circuit playground. She chose six musical notes and associated a different light effect with each of them, so you can play a tune and make a light show at the same time.
+The MakeCode that Wendy put together for this project is in the files folder (its file extension is .uf2). Find it and upload this to your circuit playground. She chose six musical notes and associated a different light effect with each of them, so you can play a tune and make a light show at the same time.
 
 ### Finally,
 Place the geodesic dome on top. Enjoy the lights and sounds as you touch the copper tape.
