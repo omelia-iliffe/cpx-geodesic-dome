@@ -36,10 +36,10 @@ Then assemble them together following these images as a guide
 This is what the different shapes look like - AABs, BBBs, and AABs with holes in the centre.
 ![](/images/dome_components.jpg)
 
-This is one 'group' of the ABB triangles look like joined together, with the long sides on the outside.
+This is one 'group' of the AAB triangles look like joined together, with the long sides on the outside.
 ![](/images/dome_single.jpg)
 
-Two 'groups' of ABB triangles joined together using the AAAs.
+Two 'groups' of AAB triangles joined together using the BBBs.
 ![](/images/dome_elements.jpg)
 
 And then, a view of the inside and the outside of the full dome... tahdahhhh!!!
