@@ -1,5 +1,5 @@
 # INTERACTIVE CIRCUIT PLAYGROUND GEODESIC DOME
-**Two of our fabourite things, combined!**  
+**Two of our fabourite things; combined!**  
 **A Project by Wendy and Omelia**  
 
 ## Resouces
@@ -7,7 +7,7 @@
     * which itself is a remix of[Adafruits **Circuit Playground Express Snap Fit Mount**](https://www.thingiverse.com/thing:3878226)
 * The fantasic **Joinery: Joints for Laser Cut Assemblies** project for the joins between each triangle in the dome.
 * [**Domerama 2v geodesic dome calculater**](http://www.domerama.com/calculators/2v-geodesic-dome-calculator/)
-* Inkscape for drawing and modifing the triangles.
+* Inkscape for drawing and modifying the triangles.
 
 ## Components
 ### Geodesic Dome
@@ -16,28 +16,28 @@ We used a brother ScanNCut to cut out the triangles. There are some solid ones a
 You need 30x ABB, and 10x AAA triangles
 
 ### Circuit Playground Base
-The circuit playground base is created with two 3d printed parts, some mesh fabric, copper tape, and conductive thread.
+The circuit playground base is created with two 3d printed parts, some mesh fabric (we used tulle), copper tape, and conductive thread.
 #### Bottom Plate (with fabric)
-Wendy desgined this is TinkerCAD. Printed upside down to avoid support.  
-It has a pause added a few mm after starting so the fabric can be added. Lay the fabric over the print, tape the sides to the bed, and resume the print. 
-
+Wendy designed this in TinkerCAD, importing vectors she'd made in Inkscape as an SVG. The vectors were based on the measurements from the triangles. She extruded the spaces between the vectors and added some dome shapes from TinkerCAD to act as feet and printed upside down to avoid using support.  
+It has a pause added a few layers after starting so the fabric can be added. Lay the fabric over the print, tape the sides to the bed, and resume the print.  
+![](/images/base_tulle.jpg)
 #### Top Plate (with circuit playground)
-This is created by adding some shapes to the Circuit Playground Express Snap Fit Mount with Alligator Clip Cutouts model.  
+This was created in TinkerCAD again, using vectors to create some shapes to the Circuit Playground Express Snap Fit Mount with Alligator Clip Cutouts model.  
 This creates a secure hold for the Playground and a place for the geodesic dome to slot in.
 
 ## Assembly
 ### Dome
-After cutting out 30xABB triangles and 10xAAA triangles, Carefully fold each of the tabs, make sure each triable is folded the same way. 
-Then assembly them together following this image as a guide
+After cutting out 30xABB triangles and 10xAAA triangles, carefully fold each of the tabs, make sure each triangle is folded the same way. 
+Then assemble them together following this image as a guide
 ![](/images/2v_assembly_large.jpg)
 
 ### Circuit Playground Base
-* Slot the 2 locating feet into the circuit playground holder and solt that onto the base plate with the fabric.  
+* Slot the 2 locating tubes into the circuit playground holder and slot that onto the base plate with the fabric.  
 * Cut 6 pieces of conductive thread and tie them around pins A1, A2, A3, A4, A5, and A6. 
-* Cut 6 pieces of copper tape and adhere them to the outside of the top plate **pinning a strand of conductive thread underneath it**. These will be our capactive buttons for interaction.
+* Cut 6 pieces of copper tape and adhere them to the outside of the top plate **pinning a strand of conductive thread underneath it**. These will be our capacitive buttons for interaction.
 
 ### Upload the code
-Find the .uf2 file in the files folder and upload this to the circiut playground. 
+Find the .uf2 file in the files folder and upload this to the circuit playground. 
 
 ### Finally,
 Place the geodesic dome on top. Enjoy the lights and sounds as you touch the copper tape.
