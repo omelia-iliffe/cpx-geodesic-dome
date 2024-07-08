@@ -5,7 +5,7 @@
 ## Resouces
 * The circuit playground holder is a remix of [**Circuit Playground Express Snap Fit Mount with Alligator Clip Cutouts** by **paulblankenbaker** on thingiverse](https://www.thingiverse.com/thing:3982715)
     * which itself is a remix of [Adafruits **Circuit Playground Express Snap Fit Mount**](https://www.thingiverse.com/thing:3878226)
-* The fantasic **Joinery: Joints for Laser Cut Assemblies** project for the joins between each triangle in the dome.
+* The fantastic [**Joinery: Joints for Laser Cut Assemblies**](https://www.instructables.com/Joinery-Joints-for-Laser-Cut-Assemblies/) project for the slots and tabs joining each triangle in the dome.
 * [**Domerama 2v geodesic dome calculater**](http://www.domerama.com/calculators/2v-geodesic-dome-calculator/)
 * Inkscape for drawing and modifying the triangles.
 
