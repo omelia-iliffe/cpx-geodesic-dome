@@ -11,7 +11,7 @@
 
 ## Components
 ### Geodesic Dome
-To create the geodesic dome I created triangles in Inkscape. The triangles need to be the exact dimensions in order to create the dome. The Domarama website was helpful to do the inital calculations. We are using a **2V** dome design.  
+To create the geodesic dome I created triangles in Inkscape. The triangles need to be the exact dimensions in order to create the dome. The Domarama website was helpful to do the initial calculations. We are using a **2V** dome design.  
 We used a brother ScanNCut to cut out the triangles. There are some solid ones and some with different pattern cutouts. Its fun to have a mixture.
 You need 30x AAB, and 10x BBB triangles
 
@@ -24,8 +24,8 @@ It has a pause added a few layers after starting so the fabric can be added. Lay
 ![](/images/base_tulle.jpg)
 
 #### Top Plate (with circuit playground)
-This was created in TinkerCAD again, using vectors to create some shapes to the Circuit Playground Express Snap Fit Mount with Alligator Clip Cutouts model.  
-This creates a secure hold for the Playground and a place for the geodesic dome to slot in.
+This was created in TinkerCAD again, using vectors to create some shapes to blend with the Circuit Playground Express Snap Fit Mount with Alligator Clip Cutouts model.  
+This creates a secure hold for the Playground and a place for the geodesic dome to sit comfortably.
 
 ## Assembly
 ### Dome
